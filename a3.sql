@@ -1,0 +1,2 @@
+\c lab1
+ALTER TABLE users ALTER COLUMN isadmin TYPE BOOLEAN USING isadmin::BOOLEAN;
